@@ -2,6 +2,10 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+<div align="center">
+  <img src="https://us-east-1.tixte.net/uploads/omega.tixte.co/rich_presence.png" alt="Example Image" width="250" height="autp">
+</div>
+
 ## Description
 
 🎮 Discord Rich Presence Customizer is a TypeScript-based project that allows you to customize your Discord Rich Presence status. This guide will help you set up the project easily, even if you have no technical background.
