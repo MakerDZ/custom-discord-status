@@ -39,8 +39,14 @@ Before starting, make sure you have the following installed on your system:
 
 5. **Starting the System ▶️**
    - For Developers:
-     - Open your favorite package manager and install the project dependencies using either `npm`, `yarn`, or `pnpm`.
-     - Run the command `npm run dev` or `yarn dev` or `pnpm dev` to start the system.
+     - Install the project dependencies using your preferred package manager:
+       - If you use npm: run `npm install`
+       - If you use Yarn: run `yarn install`
+       - If you use pnpm: run `pnpm install`
+     - Start the system by running the appropriate command:
+       - If you use npm: run `npm run dev`
+       - If you use Yarn: run `yarn dev`
+       - If you use pnpm: run `pnpm dev`
 
    - For Non-Technical Users:
      - Navigate to the `start` folder in the project directory.
